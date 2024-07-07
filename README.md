@@ -12,3 +12,5 @@ The second deliverable is the VacationPy notebook where the use of the previous 
 This notebook cleans out any null data from the CSV created in the initial Weather notebook. Then, a new DataFrame is created to display narrowed information along with specific weather requirements to search for hotels within a certain radius of the narrowed data. The parameters of the hotel DF are reduced to a limit of 20 searches so as to avoid excessive API requests. Depending on the desired locations or weather information, this search could be narrowed further and limits of the search could be adjusted for a more specific region or more specific weather requirements.
 
 Finally, the searches that returned hotels within the specified radius are displayedin a new map plot with the specified requirements of Lng, Lat, City, Humidity, Hotel Name, and Country.
+
+Both map images are saved as a .png file in the Output Folder.
